@@ -127,7 +127,8 @@ Integración con ROS2 Jazzy
 serial_port:=/dev/ttyUSB0 \
 serial_baudrate:=115200 \
 frame_id:=base_link \
-scan_mode:=Boost```
+scan_mode:=Boost
+```
 
 Configuración crítica incluye:
 
