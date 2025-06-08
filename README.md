@@ -37,6 +37,8 @@ Además, en el apartado "v-photos" se muestran fotos del diseño de Pompo, donde
 
 ## Componentes electrónicos 
 A pesar de que la construcción del robot fue hecha con piezas de lego, para todo el apartado electrónico el equipo se decidió por utilizar piezas externas con las que ya se han familiarizado. Entre estas se encuentran los siguientes sensores y actuadores:
+
+
 Un sensor LiDAR (Light Detection and Ranging) es un dispositivo que utiliza pulsos de luz láser para medir distancias con gran precisión y generar mapas tridimensionales del entorno. Funciona emitiendo un rayo láser hacia un objeto o superficie y midiendo el tiempo que tarda ese pulso en reflejarse y regresar al sensor. Este tiempo, multiplicado por la velocidad de la luz y dividido entre dos, permite calcular la distancia exacta entre el sensor y el objeto detectado.
 
 El sensor LiDAR está compuesto principalmente por un emisor láser, un receptor para captar la luz reflejada, y sistemas de navegación y posicionamiento como GPS e IMU (Unidad de Medición Inercial). Estos elementos trabajan en conjunto para no solo medir distancias, sino también para ubicar con precisión espacial cada punto detectado, creando así una “nube de puntos” que representa el entorno en 3D
