@@ -37,6 +37,11 @@ Además, en el apartado "v-photos" se muestran fotos del diseño de Pompo, donde
 
 ## Componentes electrónicos 
 A pesar de que la construcción del robot fue hecha con piezas de lego, para todo el apartado electrónico el equipo se decidió por utilizar piezas externas con las que ya se han familiarizado. Entre estas se encuentran los siguientes sensores y actuadores:
+Un sensor LiDAR (Light Detection and Ranging) es un dispositivo que utiliza pulsos de luz láser para medir distancias con gran precisión y generar mapas tridimensionales del entorno. Funciona emitiendo un rayo láser hacia un objeto o superficie y midiendo el tiempo que tarda ese pulso en reflejarse y regresar al sensor. Este tiempo, multiplicado por la velocidad de la luz y dividido entre dos, permite calcular la distancia exacta entre el sensor y el objeto detectado.
+
+El sensor LiDAR está compuesto principalmente por un emisor láser, un receptor para captar la luz reflejada, y sistemas de navegación y posicionamiento como GPS e IMU (Unidad de Medición Inercial). Estos elementos trabajan en conjunto para no solo medir distancias, sino también para ubicar con precisión espacial cada punto detectado, creando así una “nube de puntos” que representa el entorno en 3D
+
+![image](https://github.com/user-attachments/assets/922f28e6-79d5-458e-9d66-088ed07e8728)
 
 
 Arduino Mega 2560: Es una placa microcontroladora basada en el ATmega2560. Tiene 54 pines de entrada/salida digital y 16 entradas analógicas, un oscilador de cristal de 16 MHz, una conexión USB, una toma de alimentación, una cabecera ICSP y un botón reset. El arduino es la placa que contiene el código para el funcionamiento de pompo, encargándose de analizar toda la información obtenida por los sensores para así lograr cumplir con el reto. 
@@ -70,7 +75,6 @@ Servo motor de Rev Robotics: Es un motor eléctrico con sensor de retroalimentac
 Motor lego ev3: Dispositivo que convierte la energía eléctrica en movimiento mecánico, permitiendo en este caso mover una caja de cambios y movilizar las ruedas. La velocidad y el par que tiene vienen determinados por la tensión enviada a través del puente en H, siendo moderados por el Arduino.
 
 ![Image](https://github.com/user-attachments/assets/05c10969-e9a6-404b-a141-5e44218d54df)
-
 
 El Arduino está alimentado por una batería de 9v, y enciende mediante un interruptor. Se encarga de alimentar y dar las respectivas señales al servomotor, para que sea capaz de realizar los cruces de forma efectiva con facilidad al giroscopio, además de dar y recibir señales del resto de sensores. 
 
