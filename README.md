@@ -14,7 +14,7 @@ Este repositorio contiene todos los materiales necesarios para crear a "pompo", 
 2. [Miembros del equipo](#miembros-del-equipo-red-machine)
    - [Samuel José Galban Franco](#-samuel-josé-galban-franco)
    - [Juan Diego Cano Barros](#-juan-diego-cano-barros)
-   - [Angel Saul Rodriguez Guerra](#-angel-saúl-rodriguez-guerra)
+   - [Angel Saúl Rodriguez Guerra](#-angel-saúl-rodriguez-guerra)
 3. [Fotos del robot](#fotos-del-robot-todos-los-ángulos)
 4. [Etapas del robot]
 5. [Diseño mecánico](#diseño-mecánico)
