@@ -14,27 +14,28 @@ Este repositorio contiene todos los materiales necesarios para crear a "pompo", 
 2. [Miembros del equipo](#miembros-del-equipo-red-machine)
    - [Samuel José Galban Franco](#-samuel-josé-galban-franco)
    - [Juan Diego Cano Barros](#-juan-diego-cano-barros)
-   - [Angel Saul Rodriguez Guerra](#-angel-saul-rodriguez-guerra)
+   - [Angel Saul Rodriguez Guerra](#-angel-saúl-rodriguez-guerra)
 3. [Fotos del robot](#fotos-del-robot-todos-los-ángulos)
-4. [Diseño mecánico](#diseño-mecánico)
+4. [Etapas del robot]
+5. [Diseño mecánico](#diseño-mecánico)
    - [Guía de Ensamblaje Mecánico](#-guía-de-ensamblaje-mecánico--red-machine)
    - [Estructura General](#-estructura-general-de-doble-piso)
    - [Sistema de Tracción](#-módulo-de-tracción-y-dirección--red-machine)
-5. [Componentes electrónicos](#componentes-electrónicos)
+6. [Componentes electrónicos](#componentes-electrónicos)
    - [Descripción de Componentes](#-descripción-de-componentes-principales-del-sistema)
    - [Diagramas de Conexión](#explicación-del-diagrama-)
-6. [Alimentación del robot](#alimentación-del-robot)
+7. [Alimentación del robot](#alimentación-del-robot)
    - [Cálculo de Consumo](#-cálculo-del-consumo-energético-total)
-7. [Procesamiento de imágenes](#procesamiento-de-imágenes)
+8. [Procesamiento de imágenes](#procesamiento-de-imágenes)
    - [Detección de color](#detección-de-color)
-8. [Cómo ejecutar o probar el proyecto](#cómo-ejecutar-o-probar-el-proyecto)
-9. [Explicación Código Reto 2](#explicacion-codigo-reto-2)
-10. [Explicación Reto 1](#explicacion-reto-1)
-11. [Videos del funcionamiento](#videos-del-funcionamiento-de-pompo)
+9. [Cómo ejecutar o probar el proyecto](#cómo-ejecutar-o-probar-el-proyecto)
+10. [Explicación Código Reto 2](#explicacion-codigo-reto-2)
+11. [Explicación Reto 1](#explicacion-reto-1)
+12. [Videos del funcionamiento](#videos-del-funcionamiento-de-pompo)
     - [Reto 1](https://youtu.be/I5WXGXlZpG4?si=D2IsjQdoafDccQmA)
     - [Reto 2](https://youtu.be/XvPb05R_A2o?si=kEyuvRi_PKU7EDct)
-12. [Troubleshooting](#troubleshooting)
-13. [Historia y cronología](#historia-y-cronología-de-red-machine)
+13. [Troubleshooting](#troubleshooting)
+14. [Historia y cronología](#historia-y-cronología-de-red-machine)
     - [Temporada 2023](#temporada-2023)
     - [Temporada 2024](#temporada-2024)
     - [Temporada 2025](#temporada-2025)
@@ -131,7 +132,7 @@ Encargado de la programación del robot.
 Comer, Dormir, Conocer Gente, Disfrutar los viajes y Dormir 
 
 
-## 👤 Angel Saul Rodriguez Guerra
+## 👤 Angel Saúl Rodriguez Guerra
 
 ### Rol en el equipo
 Encargado de la mecánica del robot. 
